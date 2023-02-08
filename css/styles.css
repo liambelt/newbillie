@@ -1,0 +1,63 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    background-color: aqua;
+    margin: 0;
+    padding: 0;
+    background-image: url(../images/blurry.jpg);
+    background-size: cover;
+}
+
+header{
+    background-color: azure;
+    background-image: url(../images/enunciado.png);
+}
+
+nav{
+    background-color: rgb(0, 0, 0);
+}
+
+section{
+    background-color: rgb(255, 255, 255);
+    background-image: url(../images/section.jpg);
+    background-size: cover;
+}
+
+article{
+    background-color: brown;
+    background-image: url(../images/article.webp);
+}
+
+aside{
+    background-color: rgb(0, 0, 0);
+    background-image: url(../images/aside.jpg);
+    background-size: cover;
+}
+
+footer{
+background-color: rgb(83, 78, 69);
+background-image: url(../images/footer.png);
+background-size: 380px;
+}
+
+.altura1{
+    height: 10vh;
+}
+
+.altura2{
+    height: 10vh;
+}
+
+.altura3{
+    height: 70vh;
+}
+
+.altura4{
+    height: 20vh;
+}
+
+.altura5{
+    height: 60vh;
+}
