@@ -13,10 +13,12 @@ body{
 header{
     background-color: azure;
     background-image: url(../images/enunciado.png);
+    background-size: 400px;
 }
 
 nav{
     background-color: rgb(0, 0, 0);
+    background-size: cover;
 }
 
 section{
@@ -28,6 +30,7 @@ section{
 article{
     background-color: brown;
     background-image: url(../images/article.webp);
+    background-size: cover;
 }
 
 aside{
@@ -39,7 +42,8 @@ aside{
 footer{
 background-color: rgb(83, 78, 69);
 background-image: url(../images/footer.png);
-background-size: 380px;
+background-size: cover;
+
 }
 
 .altura1{
